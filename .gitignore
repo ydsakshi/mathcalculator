@@ -1,0 +1,6 @@
+*.tmp
+*.py
+*.pyc
+*.unleash
+*.project
+
